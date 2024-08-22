@@ -1,4 +1,3 @@
-
 ### Notes App with React and Firebase
 
 **Overview:**
